@@ -10,6 +10,7 @@ public class CelsiusToFahrenheit {
             System.out.println("1. Chuyển độ F sang C");
             System.out.println("2. Chuyển độ C sang F");
             System.out.println("0. Exit");
+            System.out.println();
             System.out.println("Chọn hình thức: ");
             choice = input.nextInt();
 
